@@ -19,69 +19,38 @@ Edison: "Ben bin kere başarısız olmadım; ampülü bulmak 1000 adımda oldu" 
 Daha kapsamlı bir ödev için daha önce yapılmış 
 2. Yaptığınız çalışmaların foğtaraflarını ve videolarınızı çekmeniz gerekecek. Gerektiğinde çizimler yapacaksınız. Odev2 deposunun içinde "pic" ve "video" diye bir dizin açılmıştır. Deney sırasında çektiğiniz resimler, deney grafiklerini "pic" dizini içinde saklayacaksınız. Çektiğiniz video'ları ise "video" dizini içinde saklayacaksınız. 
 3. Yapacağınız deney seçtiğiniz konuya yakın olmalıdır. Deney başaralı veya başarısız da olabilir. Önemli olan bir deney yapmanız ve bu deneyin videosunu ve resimlerini github hesabına yüklemeniz gerekmektedir. 
-
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+Bu projede amacımız mumun, suyun içinde yanabilmesini sağlamaktır. Bunu sağlamak için:Yarısına kadar su ile dolu bir bardak, pet şişe, doğum günü mumu, makas, yağ ve çakmak kullandık. Yarısı su ile dolu olan bardağa yağı döktük. Daha sonra pet şişeyi kestik ve yuvarlak, plastik bir cisim elde ettik. Plastiğin ortasını mumun içindeki fitilin geçebilmesi için yeterli olacak şekilde kestik.Mumun dışını soyduk ve fitili delikten geçirdik. Daha sonra bunu içinde su ve yağ olan bardağın içine koyduk. Plastik mum ile birlikte suyun üstünde yüzmeye başladı. Biz de çakmak ile mumu yaktık ve hiçbir sorun çıkmadan mum yandı. Bunun sebebi:Yağın, suyun üstünde durması ve mumun, plastik cismin yardımıyla dik bir şekilde durduğu için su ve ateşin birbiriyle temasa geçmemesidir
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Bu projede amaç;mumun su yüzeyinde yanabilmesini sağlamaktır.Bu problemi çözebilmek için internetteki yazılardan ve videolardan yararlandık.Edindiğimiz bilgiler sonucunda suya yağ döküp , mumu plastikten geçirip yağ-su karışımına koyunca ve mumu yakınca mumun yanabileceği kanısına vardık.Bu deneyle ilgili internette çeşitli kaynakça vardı.Kimi videolarda bardağı mumun üzerine kapatarak deneyi gerçekleştiriyorlardı fakat biz mumu bardağın üzerine koymayı tercih ettik.
+
 # Materyal ve Yöntem (Experimental Setup)
+ Projemin 2. aşaması deney aşamasıdır. Bu bölümde deney yapmak için izlediğim yol ve yöntemi, veri toplama ve materyal hazırlama aşamalarnı anlatacağım.
+  
+* 1) DENEYE BAŞLAMADAN ÖNCE VERİ TOPLAMA
+Deneyi yapmak için öncelikle bir bilgi birikimine sahip olmam gerekir. Bu yüzden öncelikle Odev-1 de yaptığım gibi deneyi yapmak için bazı makalelerden ve videolardan yararlandım. Deney nasıl yapılır, nelere dikkat edilmelidir, materyaller nelerdir, deney süreci vb. öğrendikten sonra bunları uygulamaya koyuldum. Uygun ortam yaratıp deneyi yapmaya başlayabilirdim artık.
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
+* 2)DENEY ORTAMI
+Deneyi yapabilmek için en uygun yer evdi.Bu nedenle biz deneyi evde yapmayı tercih ettik.Gürültülü olmayan bir ortamda denyimizi yaptık.Malzemeleri ve ihtiyacımız olan her şeyi deney ortamında bulundurduk
 
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
+* 3)DENEY MALZEMELERİ
+ Deney malzemelerini sıralayacak olursak
+  Bardak
+  Su
+  Yağ
+  Plastik
+  Mum
+  Makas
+   
+* 4)DENEYİ YAPANLAR VE NE KADAR SÜRDÜ 
+Deneyi grup arkadaşı olarak yaptık.Deney 20 dakika kadar sürdü.Birimiz deneyi yaparken öbürümüz devideoya çektik.Böylece görev bölümüyle işlerimizi halletmiş olduk.
 
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
-
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
-
+* YÖNTEM
+Öncelikle bir bardağa su doldurduk.Suyun içine biraz yağ ekledik.Sonra plastik şietdn yuvarlak biçimind bir yer keserek çıkardık.Mumun içindeki fitili çıkardık.Çünkü işimize yarayacak olan yer orasıydı.Pet şişeden ayırdığımız plastiği fitilin geçebileceği şekilde deldik.Fitili pşastikten geöçirdekten sonra yağ eklediğimiz suyun içine bıraktık.Sonra fitili yakmaya başladık.Ve fitil yandı.Deney başarılı sonuçlandı.
 # Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
-
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
-
-
+Deneyimiz başarıyla sonuçlandı.Yaptığımız deney sayesinde mumun suda yanarak kalması için neler yapmamız gerektiğini öğrendik.Yaptığımız ilk deney olduğu için bazı hatalarımız oldu fakat zamanla daha iyi sonuçlar elde edeceğiz.
 # Sonuç ve Tartışma (Conclusion and Discussion) 
 Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
 
