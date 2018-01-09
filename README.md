@@ -8,13 +8,13 @@ Bu projede amaç;mumun su yüzeyinde yanabilmesini sağlamaktır.Bu problemi ç�
 # Materyal ve Yöntem (Experimental Setup)
  Projemin 2. aşaması deney aşamasıdır. Bu bölümde deney yapmak için izlediğim yol ve yöntemi, veri toplama ve materyal hazırlama aşamalarnı anlatacağım.
   
-* 1) DENEYE BAŞLAMADAN ÖNCE VERİ TOPLAMA
+*1)DENEYE BAŞLAMADAN ÖNCE VERİ TOPLAMA
 Deneyi yapmak için öncelikle bir bilgi birikimine sahip olmam gerekir. Bu yüzden öncelikle Odev-1 de yaptığım gibi deneyi yapmak için bazı makalelerden ve videolardan yararlandım. Deney nasıl yapılır, nelere dikkat edilmelidir, materyaller nelerdir, deney süreci vb. öğrendikten sonra bunları uygulamaya koyuldum. Uygun ortam yaratıp deneyi yapmaya başlayabilirdim artık.
 
-* 2)DENEY ORTAMI
+*2)DENEY ORTAMI
 Deneyi yapabilmek için en uygun yer evdi.Bu nedenle biz deneyi evde yapmayı tercih ettik.Gürültülü olmayan bir ortamda denyimizi yaptık.Malzemeleri ve ihtiyacımız olan her şeyi deney ortamında bulundurduk
 
-* 3)DENEY MALZEMELERİ
+*3)DENEY MALZEMELERİ
  Deney malzemelerini sıralayacak olursak
   Bardak
   Su
@@ -23,10 +23,10 @@ Deneyi yapabilmek için en uygun yer evdi.Bu nedenle biz deneyi evde yapmayı te
   Mum
   Makas
    
-* 4)DENEYİ YAPANLAR VE NE KADAR SÜRDÜ 
+*4)DENEYİ YAPANLAR VE NE KADAR SÜRDÜ 
 Deneyi grup arkadaşı olarak yaptık.Deney 20 dakika kadar sürdü.Birimiz deneyi yaparken öbürümüz devideoya çektik.Böylece görev bölümüyle işlerimizi halletmiş olduk.
 
-* YÖNTEM
+*YÖNTEM
 Öncelikle bir bardağa su doldurduk.Suyun içine biraz yağ ekledik.Sonra plastik şietdn yuvarlak biçimind bir yer keserek çıkardık.Mumun içindeki fitili çıkardık.Çünkü işimize yarayacak olan yer orasıydı.Pet şişeden ayırdığımız plastiği fitilin geçebileceği şekilde deldik.Fitili pşastikten geöçirdekten sonra yağ eklediğimiz suyun içine bıraktık.Sonra fitili yakmaya başladık.Ve fitil yandı.Deney başarılı sonuçlandı.
 # Bulgular (Results)
 Deneyimiz başarıyla sonuçlandı.Yaptığımız deney sayesinde mumun suda yanarak kalması için neler yapmamız gerektiğini öğrendik.Yaptığımız ilk deney olduğu için bazı hatalarımız oldu fakat zamanla daha iyi sonuçlar elde edeceğiz.
